@@ -22,5 +22,6 @@
   "repository": {
     "url": "https://github.com/SamitoX4/samito-nest-theme-vscode.git",
     "type": "git"
-  }
+  },
+  "publisher": "samito-themes"
 }
