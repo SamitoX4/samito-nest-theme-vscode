@@ -1,0 +1,26 @@
+{
+  "name": "samito-nest-theme-vscode",
+  "displayName": "samito-nest-theme-vscode",
+  "description": "samito-nest-theme-vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "samito-nest-theme-vscode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/samito-nest-theme-vscode-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/nest-icon.png",
+  "repository": {
+    "url": "https://github.com/SamitoX4/samito-nest-theme-vscode.git",
+    "type": "git"
+  }
+}
